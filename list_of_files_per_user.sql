@@ -1,3 +1,4 @@
+# This query will return the list of files owned by a user. It works when S3 Object Storage is used as primary storage.
 # Tested on Nextcloud 22
 SET @username = 'username'; # set username here
 SELECT 
