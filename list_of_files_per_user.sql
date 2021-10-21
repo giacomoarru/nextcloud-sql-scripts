@@ -1,3 +1,4 @@
+# Tested on Nextcloud 22
 SET @username = 'username'; # set username here
 SELECT 
     u.uid,
